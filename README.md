@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daniel Rafael Solorio Paredes (@Solpapaya)
-- 👀 I’m interested in ... Software Development, Machine Learning, Design Patterns, Data Structures & Algorithms
+- 👀 I’m interested in ... Software Development, Machine Learning, Data Science, Data Structures & Algorithms
 - 🌱 I’m currently learning ... Software Development, Data Structures & Algorithms
 - 💞️ I’m looking to collaborate on ... Software Development & Machine Learning
 - 📫 How to reach me ... dsolorioparedes@gmail.com
